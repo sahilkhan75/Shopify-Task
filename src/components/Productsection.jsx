@@ -34,15 +34,15 @@ export default function Productsection() {
                 </div>
                 <div className="w-1/2 flex justify-end items-center gap-10 mr-10">
                     <img
-                        src="public/search_24dp_E3E3E3_FILL0_wght400_GRAD0_opsz24.png"
+                        src="/search_24dp_E3E3E3_FILL0_wght400_GRAD0_opsz24.png"
                         alt=""
                     />
                     <img
-                        src="public/person_24dp_E3E3E3_FILL0_wght400_GRAD0_opsz24.png"
+                        src="/person_24dp_E3E3E3_FILL0_wght400_GRAD0_opsz24.png"
                         alt=""
                     />
                     <img
-                        src="public/image_24dp_E3E3E3_FILL0_wght400_GRAD0_opsz24.png"
+                        src="/image_24dp_E3E3E3_FILL0_wght400_GRAD0_opsz24.png"
                         alt=""
                     />
                 </div>
