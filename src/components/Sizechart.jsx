@@ -17,7 +17,7 @@ export default function Sizechart({ isOpen, onClose }) {
 
                 {/* Image */}
                 <img
-                    src="/Screenshot 2025-09-25 113912.png"
+                    src="Screenshot 2025-09-25 113912.png"
                     alt="Size Chart"
                     className="w-full h-auto rounded"
                 />
